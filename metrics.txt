@@ -1,0 +1,2 @@
+Validation Accuracy: 0.9817
+Precision: 0.9819
